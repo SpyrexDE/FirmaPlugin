@@ -1,2 +1,2 @@
 # FirmaPlugin
-Minecraft plugin
+Minecraft Spigot Server Plugin
