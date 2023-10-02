@@ -1,0 +1,7 @@
+name: Firma
+author: Spyrex
+version: 1.0
+main: de.spyrex.main.Firma
+commands:
+    firma:
+    abgabe:
